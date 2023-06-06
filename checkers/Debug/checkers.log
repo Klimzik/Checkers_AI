@@ -1,0 +1,9 @@
+﻿  checkers.cpp
+C:\Users\matik\Desktop\warcaby\checkers\checkers.cpp(181,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\matik\Desktop\warcaby\checkers\checkers.cpp(183,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\matik\Desktop\warcaby\checkers\checkers.cpp(383,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\matik\Desktop\warcaby\checkers\checkers.cpp(413,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Źródło.cpp
+  Generowanie kodu...
+C:\Users\matik\Desktop\warcaby\checkers\checkers.cpp(406): warning C4715: "checkers::evaluate_tree”: niewszystkie ścieżki kodu zwracają wartość
+  checkers.vcxproj -> C:\Users\matik\Desktop\warcaby\checkers\Debug\checkers.exe
